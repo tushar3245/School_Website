@@ -1,0 +1,63 @@
+
+
+body{
+	background-image: url("images/bg2.jpg");
+}
+
+
+
+
+.footer a{
+	font-size: 15px;
+}
+
+.footer_halnagat p{
+	font-size: 12px;
+}
+
+.footer_porekolpona{
+	font-size: 9px;
+
+}
+
+.n-t a{
+ font-size:15px; 
+}
+
+.notice{
+	
+	margin-top:-100px;
+}
+.board{
+	background-color: blue;
+	font: size 10px;;
+}
+
+.custom-link {
+	text-decoration: none;
+	color: inherit; /* Inherit text color from parent */
+  }
+  .butto{
+float:right;
+padding: 0;
+  }
+ h4{
+	margin-left:-50px;
+ }
+
+ .right_side{
+	text-align: center;
+	color:beige;
+ }
+
+ .margin{
+	height:10px;
+	
+	background-color:blueviolet;
+ }
+
+ .footer_right{
+	padding-right: 0px;
+	
+ }
+
